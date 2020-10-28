@@ -15,4 +15,4 @@
 ## Разработка
 * Верстка - предпроцессор SASS (конкретно SCSS);
 
-<img src="img/gh01" style: width="800">
+<img src="img/gh01.jpg" style: width="800">
